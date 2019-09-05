@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Contact Me</title>
+    <link rel="stylesheet" href="contact.css">
+    <script src="contact.js"></script>
+</head>
+<body>
+    <div class="container">
+        <section>
+            <h2>Say Hello</h2>
+        </section>
+        <div class="form">
+            <form action="submit.html" method="post" onsubmit="return validateForm()">
+                <div class="row">
+                    <div class="col-12">
+                        <input type="text" name="name" id="fullName" placeholder="Full Name">
+                        <p class="error"></p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <input type="email" name="email" id="email" placeholder="Email Address" >
+                        <p class="error"></p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <input type="text" name="subject" id="subject" placeholder="Subject">
+                        <p class="error"></p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <textarea name="message" id="textArea" placeholder="Type your message..."></textarea>
+                        <p class="error"></p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <input type="submit" name="submit" id="submit" placeholder="Send">
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

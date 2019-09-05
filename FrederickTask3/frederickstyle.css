@@ -1,0 +1,1431 @@
+.mediaViewInfo {
+	--web-view-name: Frederick;
+	--web-view-id: Frederick;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Frederick;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+.Frederick_Class {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 100%;
+	height: 4424px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	--web-view-name: Frederick;
+	--web-view-id: Frederick;
+	--web-enable-deep-linking: true;
+}
+.BG___PHOTO_Class {
+	position: relative;
+	width: 80%;
+	height: 4224.388px;
+	left: 400px;
+	top: 250px;
+	overflow: visible;
+}
+._Clip_Group__Class {
+	position: relative;
+	width: 250px;
+	height: 250px;
+	left: 800px;
+	top: 0.341px;
+	overflow: visible;
+}
+._Path__Class {
+	opacity: 0.102;
+}
+._Path_ {
+	position: relative;
+	overflow: visible;
+	width: 250px;
+	height: 250px;
+	left: 800px;
+	top: 0px;
+}
+.Compound_Shape {
+	position: absolute;
+	overflow: visible;
+	width: 8.339px;
+	height: 3262.325px;
+	left: 120px;
+	top: 800px;
+}
+.EDUCATION_Class {
+	position: absolute;
+	width: 614.928px;
+	height: 381.353px;
+	left: 550px;
+	top: 2734.472px;
+	overflow: visible;
+}
+.EDUCATION_A0_Text_1_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 386px;
+	white-space: nowrap;
+	line-height: 58px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1.7px;
+}
+.__Class {
+	position: absolute;
+	left: 4.753px;
+	top: 103.123px;
+	overflow: visible;
+	width: 20px;
+	white-space: nowrap;
+	line-height: 46px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 37px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.UNIVERSITY_OF_PORT_HARCOURT__P_Class {
+	position: absolute;
+	left: 92.928px;
+	top: 113.422px;
+	overflow: visible;
+	width: 523px;
+	white-space: nowrap;
+	line-height: 37px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.__A0_Text_4_Class {
+	position: absolute;
+	left: 7.91px;
+	top: 263.051px;
+	overflow: visible;
+	width: 20px;
+	white-space: nowrap;
+	line-height: 46px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 37px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.DELTA_CAREERS_COLLEGE__SENIOR__Class {
+	position: absolute;
+	left: 96.086px;
+	top: 273.353px;
+	overflow: visible;
+	width: 412px;
+	white-space: nowrap;
+	line-height: 37px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.EDUCATION_A0_Group_4_Class {
+	position: absolute;
+	width: 739px;
+	height: 381.353px;
+	left: 550px;
+	top: 3183.472px;
+	overflow: visible;
+}
+.VOLUNTEER_SERVICES_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 740px;
+	white-space: nowrap;
+	line-height: 58px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1.7px;
+}
+.__A0_Text_7_Class {
+	position: absolute;
+	left: 4.753px;
+	top: 103.123px;
+	overflow: visible;
+	width: 20px;
+	white-space: nowrap;
+	line-height: 46px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 37px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.Dbenevolent_Care_Orphanage_Dan_Class {
+	position: absolute;
+	left: 92.928px;
+	top: 113.422px;
+	overflow: visible;
+	width: 535px;
+	white-space: nowrap;
+	line-height: 37px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.__A0_Text_9_Class {
+	position: absolute;
+	left: 7.91px;
+	top: 263.05px;
+	overflow: visible;
+	width: 20px;
+	white-space: nowrap;
+	line-height: 46px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 37px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.Teens_Connect_Int_l__Facilitat_Class {
+	position: absolute;
+	left: 96.086px;
+	top: 273.353px;
+	overflow: visible;
+	width: 486px;
+	white-space: nowrap;
+	line-height: 37px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.WORK_Class {
+	position: absolute;
+	width: 500px;
+	height: 1609.465px;
+	left: 550px;
+	top: 1057.618px;
+	overflow: visible;
+}
+.ID2_Class {
+	position: absolute;
+	width: 500px;
+	height: 371.361px;
+	left: 6.064px;
+	top: 320.104px;
+	overflow: visible;
+}
+.M_E_Communications_Officer_CEN_Class {
+	position: absolute;
+	width: 500px;
+	height: 71.277px;
+	left: 88.222px;
+	top: 0px;
+	overflow: visible;
+}
+.CENTRE_FOR_CREATIVE_DEVELOPMEN_Class {
+	position: absolute;
+	width: 500px;
+	height: 25px;
+	left: 0px;
+	top: 46.277px;
+	overflow: visible;
+}
+._______________________________Class {
+	position: absolute;
+	left: 628.56px;
+	top: 0px;
+	overflow: visible;
+	width: 207px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -9.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.CENTRE_FOR_CREATIVE_DEVELOPMEN_A0_Text_12_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 600px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -9.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.M_E_Communications_Officer_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 517px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.Compound_Shape_A0_Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 13.335px;
+	height: 66.2px;
+	left: 1.847px;
+	top: 3.143px;
+}
+.Monitored_project_activities___Class {
+	position: absolute;
+	left: 86.864px;
+	top: 94.361px;
+	overflow: visible;
+	width: 812px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(190,172,170,1);
+}
+.Managed_external_company_commu_Class {
+	position: absolute;
+	left: 86.864px;
+	top: 157.361px;
+	overflow: visible;
+	width: 802px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(190,172,170,1);
+}
+.Conducted_research__opinion_po_Class {
+	position: absolute;
+	left: 86.782px;
+	top: 220.361px;
+	overflow: visible;
+	width: 667px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(190,172,170,1);
+}
+.Updated_records__processed_raw_Class {
+	position: absolute;
+	left: 86.782px;
+	top: 255.361px;
+	overflow: visible;
+	width: 803px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(190,172,170,1);
+}
+.Managed_official_website__impl_Class {
+	position: absolute;
+	left: 86.782px;
+	top: 318.361px;
+	overflow: visible;
+	width: 731px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(190,172,170,1);
+}
+.___________Class {
+	position: absolute;
+	left: 0px;
+	top: 56.259px;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.ID2_A0_Group_9_Class {
+	position: absolute;
+	width: 923.782px;
+	height: 429.361px;
+	left: 6.064px;
+	top: 765.104px;
+	overflow: visible;
+}
+.M_E_Communications_Officer_CEN_A0_Group_10_Class {
+	position: absolute;
+	width: 835.56px;
+	height: 99.277px;
+	left: 88.222px;
+	top: 0px;
+	overflow: visible;
+}
+.CENTRE_FOR_CREATIVE_DEVELOPMEN_A0_Group_11_Class {
+	position: absolute;
+	width: 835.56px;
+	height: 53px;
+	left: 0px;
+	top: 46.277px;
+	overflow: visible;
+}
+._______________________________A0_Text_20_Class {
+	position: absolute;
+	left: 454.56px;
+	top: 0px;
+	overflow: hidden;
+	width: 382px;
+	height: 25px;
+	line-height: 28px;
+	margin-top: -9.5px;
+	text-align: right;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.CENTRE_FOR_CREATIVE_DEVELOPMEN_A0_Text_21_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 539px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.M_E_Communications_Officer_A0_Text_22_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 419px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.Compound_Shape_A0_Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 13.335px;
+	height: 94.2px;
+	left: 1.847px;
+	top: 5.143px;
+}
+.Created_government_infrastruct_Class {
+	position: absolute;
+	left: 86.864px;
+	top: 124.361px;
+	overflow: visible;
+	width: 821px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(190,172,170,1);
+}
+.Collaborated_all_with_team_mem_Class {
+	position: absolute;
+	left: 86.864px;
+	top: 187.361px;
+	overflow: visible;
+	width: 820px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(190,172,170,1);
+}
+.Supervised_a_team_of_key_20_en_Class {
+	position: absolute;
+	left: 86.782px;
+	top: 250.361px;
+	overflow: visible;
+	width: 739px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(190,172,170,1);
+}
+.Monitored_data_computation__in_Class {
+	position: absolute;
+	left: 86.782px;
+	top: 313.361px;
+	overflow: visible;
+	width: 777px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(190,172,170,1);
+}
+.Drove_administrative_functions_Class {
+	position: absolute;
+	left: 86.782px;
+	top: 376.361px;
+	overflow: visible;
+	width: 741px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(190,172,170,1);
+}
+.___________A0_Text_28_Class {
+	position: absolute;
+	left: 0px;
+	top: 86.259px;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.ID2_A0_Group_12_Class {
+	position: absolute;
+	width: 923.782px;
+	height: 341.361px;
+	left: 6.064px;
+	top: 1268.104px;
+	overflow: visible;
+}
+.M_E_Communications_Officer_CEN_A0_Group_13_Class {
+	position: absolute;
+	width: 835.56px;
+	height: 71.277px;
+	left: 88.222px;
+	top: 0px;
+	overflow: visible;
+}
+.CENTRE_FOR_CREATIVE_DEVELOPMEN_A0_Group_14_Class {
+	position: absolute;
+	width: 835.56px;
+	height: 25px;
+	left: 0px;
+	top: 46.277px;
+	overflow: visible;
+}
+._______________________________A0_Text_29_Class {
+	position: absolute;
+	left: 454.56px;
+	top: 0px;
+	overflow: hidden;
+	width: 382px;
+	height: 25px;
+	line-height: 28px;
+	margin-top: -9.5px;
+	text-align: right;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.CENTRE_FOR_CREATIVE_DEVELOPMEN_A0_Text_30_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 356px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.M_E_Communications_Officer_A0_Text_31_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 466px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.Compound_Shape_A0_Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 13.335px;
+	height: 66.2px;
+	left: 1.847px;
+	top: 5.143px;
+}
+.Provided_service_and_customer__Class {
+	position: absolute;
+	left: 86.864px;
+	top: 99.361px;
+	overflow: visible;
+	width: 549px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(190,172,170,1);
+}
+.Managed_all_on_site_installati_Class {
+	position: absolute;
+	left: 86.864px;
+	top: 162.361px;
+	overflow: visible;
+	width: 562px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(190,172,170,1);
+}
+.Diagnosed_errors_or_technical__Class {
+	position: absolute;
+	left: 86.782px;
+	top: 225.361px;
+	overflow: visible;
+	width: 469px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(190,172,170,1);
+}
+.Followed_all_company_s_filed_p_Class {
+	position: absolute;
+	left: 86.782px;
+	top: 288.361px;
+	overflow: visible;
+	width: 474px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(190,172,170,1);
+}
+.___________A0_Text_36_Class {
+	position: absolute;
+	left: 0px;
+	top: 56.259px;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.ID1_Class {
+	position: absolute;
+	width: 928.846px;
+	height: 246.493px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.WORK_EXPERIENCE_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 642px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1.7px;
+}
+.DESIGNER_FREELANCE_____________Class {
+	position: absolute;
+	width: 836.364px;
+	height: 71.249px;
+	left: 92.482px;
+	top: 117.133px;
+	overflow: visible;
+}
+.FREELANCE___FROM_2017___DATE_Class {
+	position: absolute;
+	width: 836.364px;
+	height: 25px;
+	left: 0px;
+	top: 46.249px;
+	overflow: visible;
+}
+.___FROM_2017___DATE_Class {
+	position: absolute;
+	width: 217px;
+	height: 25px;
+	left: 619.364px;
+	top: 0px;
+	overflow: visible;
+}
+.FROM_2017___DATE_Class {
+	position: absolute;
+	left: 8px;
+	top: 0px;
+	overflow: visible;
+	width: 210px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -9.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.___Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 9px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -9.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(190,172,170,1);
+	letter-spacing: 0.3px;
+}
+.FREELANCE_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 138px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -9.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.DESIGNER_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 159px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.Compound_Shape_A0_Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 13.335px;
+	height: 66.2px;
+	left: 7.911px;
+	top: 120.271px;
+}
+.Designed_several_logos__websit_Class {
+	position: absolute;
+	left: 92.928px;
+	top: 221.493px;
+	overflow: visible;
+	width: 532px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(190,172,170,1);
+}
+.___________A0_Text_43_Class {
+	position: absolute;
+	left: 6.064px;
+	top: 172.835px;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.REFERENCE_Class {
+	position: absolute;
+	width: 385px;
+	height: 225.422px;
+	left: 98.896px;
+	top: 2176.472px;
+	overflow: visible;
+}
+.REFERENCE_A0_Text_44_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 386px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1.7px;
+}
+.CHINYERE_IKENGA_KAINOTOMIA_GLO_Class {
+	position: absolute;
+	left: 73.136px;
+	top: 113.422px;
+	overflow: visible;
+	width: 287px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.Compound_Shape_A0_Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 13.335px;
+	height: 66.208px;
+	left: 3.425px;
+	top: 118.233px;
+}
+.___A0_Text_46_Class {
+	position: absolute;
+	left: 1.585px;
+	top: 169.8px;
+	overflow: visible;
+	width: 23px;
+	white-space: nowrap;
+	line-height: 38px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 27px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.SKILLS_Class {
+	position: absolute;
+	width: 265.656px;
+	height: 994.281px;
+	left: 98.134px;
+	top: 1058.217px;
+	overflow: visible;
+}
+.SKILLS_A0_Text_47_Class {
+	position: absolute;
+	left: 3.917px;
+	top: 0px;
+	overflow: visible;
+	width: 221px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1.7px;
+}
+.UI__Design_UX_Research_Logo_de_Class {
+	position: absolute;
+	left: 74.656px;
+	top: 206.342px;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	line-height: 74px;
+	margin-top: -26.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(190,172,170,1);
+}
+.Compound_Shape_A0_Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 4.339px;
+	height: 328.97px;
+	left: 5.006px;
+	top: 202.54px;
+}
+.SPECIALITIES_Class {
+	position: absolute;
+	left: 3.917px;
+	top: 122.436px;
+	overflow: visible;
+	width: 251px;
+	white-space: nowrap;
+	line-height: 37px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1.7px;
+}
+.Adobe_XD_Adobe_Illustrator_Ado_Class {
+	position: absolute;
+	left: 74.656px;
+	top: 670.436px;
+	overflow: visible;
+	width: 192px;
+	white-space: nowrap;
+	line-height: 74px;
+	margin-top: -26.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(190,172,170,1);
+}
+.TOOLS_Class {
+	position: absolute;
+	left: 3.917px;
+	top: 586.529px;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	line-height: 37px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1.7px;
+}
+.Compound_Shape_A0_Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 14.161px;
+	height: 14.161px;
+	left: 0.098px;
+	top: 206.985px;
+}
+.Compound_Shape_A0_Ellipse_3 {
+	position: absolute;
+	overflow: visible;
+	width: 9.163px;
+	height: 9.163px;
+	left: 2.597px;
+	top: 209.484px;
+}
+.Compound_Shape_A0_Ellipse_4 {
+	position: absolute;
+	overflow: visible;
+	width: 14.161px;
+	height: 14.161px;
+	left: 0.098px;
+	top: 284.044px;
+}
+.Compound_Shape_A0_Ellipse_5 {
+	position: absolute;
+	overflow: visible;
+	width: 9.163px;
+	height: 9.163px;
+	left: 2.597px;
+	top: 286.551px;
+}
+.Compound_Shape_A0_Ellipse_6 {
+	position: absolute;
+	overflow: visible;
+	width: 14.161px;
+	height: 14.161px;
+	left: 0.098px;
+	top: 359.044px;
+}
+.Compound_Shape_A0_Ellipse_7 {
+	position: absolute;
+	overflow: visible;
+	width: 9.163px;
+	height: 9.163px;
+	left: 2.597px;
+	top: 361.55px;
+}
+.Compound_Shape_A0_Ellipse_8 {
+	position: absolute;
+	overflow: visible;
+	width: 14.161px;
+	height: 14.161px;
+	left: 0.098px;
+	top: 436.103px;
+}
+.Compound_Shape_A0_Ellipse_9 {
+	position: absolute;
+	overflow: visible;
+	width: 9.163px;
+	height: 9.163px;
+	left: 2.597px;
+	top: 438.602px;
+}
+.Compound_Shape_A0_Ellipse_10 {
+	position: absolute;
+	overflow: visible;
+	width: 14.161px;
+	height: 14.161px;
+	left: 0.098px;
+	top: 512.17px;
+}
+.Compound_Shape_A0_Ellipse_11 {
+	position: absolute;
+	overflow: visible;
+	width: 9.163px;
+	height: 9.163px;
+	left: 2.597px;
+	top: 514.669px;
+}
+.Compound_Shape_A0_Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 4.339px;
+	height: 328.97px;
+	left: 4.915px;
+	top: 665.311px;
+}
+.Compound_Shape_A0_Ellipse_12 {
+	position: absolute;
+	overflow: visible;
+	width: 14.161px;
+	height: 14.161px;
+	left: 0px;
+	top: 669.756px;
+}
+.Compound_Shape_A0_Ellipse_13 {
+	position: absolute;
+	overflow: visible;
+	width: 9.163px;
+	height: 9.163px;
+	left: 2.499px;
+	top: 672.255px;
+}
+.Compound_Shape_A0_Ellipse_14 {
+	position: absolute;
+	overflow: visible;
+	width: 14.161px;
+	height: 14.161px;
+	left: 0px;
+	top: 746.815px;
+}
+.Compound_Shape_A0_Ellipse_15 {
+	position: absolute;
+	overflow: visible;
+	width: 9.163px;
+	height: 9.163px;
+	left: 2.499px;
+	top: 749.314px;
+}
+.Compound_Shape_A0_Ellipse_16 {
+	position: absolute;
+	overflow: visible;
+	width: 14.161px;
+	height: 14.161px;
+	left: 0px;
+	top: 821.815px;
+}
+.Compound_Shape_A0_Ellipse_17 {
+	position: absolute;
+	overflow: visible;
+	width: 9.163px;
+	height: 9.163px;
+	left: 2.499px;
+	top: 824.321px;
+}
+.Compound_Shape_A0_Ellipse_18 {
+	position: absolute;
+	overflow: visible;
+	width: 14.161px;
+	height: 14.161px;
+	left: 0px;
+	top: 898.874px;
+}
+.Compound_Shape_A0_Ellipse_19 {
+	position: absolute;
+	overflow: visible;
+	width: 9.163px;
+	height: 9.163px;
+	left: 2.499px;
+	top: 901.373px;
+}
+.Compound_Shape_A0_Ellipse_20 {
+	position: absolute;
+	overflow: visible;
+	width: 14.161px;
+	height: 14.161px;
+	left: 0px;
+	top: 974.941px;
+}
+.Compound_Shape_A0_Ellipse_21 {
+	position: absolute;
+	overflow: visible;
+	width: 9.163px;
+	height: 9.163px;
+	left: 2.499px;
+	top: 977.44px;
+}
+.PROFILE_Class {
+	position: absolute;
+	width: 90%;
+	height: 471.335px;
+	left: 102.051px;
+	top: 518.759px;
+	overflow: visible;
+}
+.PROFILE__Class {
+	position: absolute;
+	left: 0px;
+	top: 120.548px;
+	overflow: visible;
+	width: 302px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1.7px;
+}
+.Compound_Shape_A0_Path_1 {
+	overflow: visible;
+	position: absolute;
+	top: -20px;
+	left: 650px;
+	width: 800px;
+	height: 4.933px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Results_driven_Logo_Designer_a_Class {
+	position: absolute;
+	left: 0px;
+	top: 237.335px;
+	overflow: hidden;
+	width: 90%;
+	height: 234px;
+	line-height: 46px;
+	margin-top: -12.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(190,172,170,1);
+}
+.CONTACT_Class {
+	position: absolute;
+	width: 474.88px;
+	height: 363.073px;
+	left: 734.121px;
+	top: -29.333px;
+	overflow: visible;
+}
+._234_803_8511_954_frederickdam_Class {
+	position: absolute;
+	left: 148.88px;
+	top: 102.073px;
+	overflow: visible;
+	width: 327px;
+	white-space: nowrap;
+	line-height: 59px;
+	margin-top: -19px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(190,172,170,1);
+}
+.Compound_Shape_A0_Path_2 {
+	overflow: visible;
+	position: absolute;
+	top: 162.1px;
+	left: 84.66px;
+	width: 34.868px;
+	height: 26.536px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Compound_Shape_A0_Path_3 {
+	overflow: visible;
+	position: absolute;
+	top: 98.178px;
+	left: 84.763px;
+	width: 34.024px;
+	height: 34.073px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Compound_Shape_A0_Path_4 {
+	overflow: visible;
+	position: absolute;
+	top: 217.352px;
+	left: 87.561px;
+	width: 30.103px;
+	height: 37.53px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Compound_Shape_A0_Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 4.339px;
+	height: 295.537px;
+	left: 0px;
+	top: 0px;
+}
+.NAME_Class {
+	position: absolute;
+	width: 851.051px;
+	height: 591.089px;
+	left: -1px;
+	top: -0.025px;
+	overflow: visible;
+}
+.FREDERICK_DAMASUS_Class {
+	position: absolute;
+	left: 103.051px;
+	top: 189.304px;
+	overflow: visible;
+	width: 749px;
+	white-space: nowrap;
+	line-height: 141px;
+	margin-top: -23px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 95px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+.LOGO___UX_DESIGNER_Class {
+	position: absolute;
+	left: 103.051px;
+	top: 477.607px;
+	overflow: visible;
+	width: 437px;
+	white-space: nowrap;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1.9px;
+}
+.Compound_Shape_A0_Rectangle_14 {
+	position: absolute;
+	overflow: visible;
+	width: 31.222px;
+	height: 591.089px;
+	left: 0.424px;
+	top: 0px;
+}
+.Compound_Shape_A0_Path_5 {
+	overflow: visible;
+	position: absolute;
+	top: 497.244px;
+	left: 0px;
+	width: 87.477px;
+	height: 4.342px;
+	transform: matrix(1,0,0,1,0,0);
+}
